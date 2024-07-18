@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my Github profile!
+
+I am a pre-final year student pursuing B. Tech in Mechanical Engineering at IIT Gandhinagar.
 <!--
 **nimesh-goyal/nimesh-goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
